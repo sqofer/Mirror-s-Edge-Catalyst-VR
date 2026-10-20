@@ -1,4 +1,4 @@
-<p align="center"><img src="MECVR_Logo.png" alt="MECVR" width="600"></p>
+<p align="center"><img src="MECVR_VideoLogo.png" alt="MECVR" width="600"></p>
 
 # MECVR
 
