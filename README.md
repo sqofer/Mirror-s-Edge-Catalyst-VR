@@ -1,6 +1,6 @@
 <p align="center"><img src="MECVR_VideoLogo.png" alt="MECVR" width="600"></p>
 
-# MECVR
+# Mirror's Edge Catalyst VR
 
 Native OpenXR VR mod for **Mirror's Edge Catalyst** on Windows x64.
 Gameplay uses two native Frostbite views with headset tracking. The main menu
